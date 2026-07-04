@@ -5718,3 +5718,16 @@ DI_language_pit_river_talk_sgui = {
         }
     }
 }
+
+### cahuilla ###
+DI_language_cahuilla_sgui = {
+    scope = character # Player Character
+
+    effect = {
+        save_scope_as = player_character
+
+        var:DI_innovation_selected_culture = {
+            set_culture_pillar = language_cahuilla
+        }
+    }
+}
