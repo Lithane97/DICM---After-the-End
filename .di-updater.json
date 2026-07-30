@@ -64,7 +64,7 @@
     },
     "common/scripted_guis/DI_title_manager_buildings_sgui.txt": {
       "kind": "generated",
-      "last_written_hash": "4b5cc1d59521b3c18d0568273e979fd2149abd8f5e1189748a8589e6bfe3a83e"
+      "last_written_hash": "457c90ec0a8ec727e9d869a7d6f3377096bedf8db2683e7ec34d4571586300af"
     },
     "common/scripted_triggers/DI_court_position_spawner_overrides.txt": {
       "kind": "generated",
@@ -204,7 +204,7 @@
     },
     "common/scripted_guis/DI_title_manager_holdings_sgui.txt": {
       "kind": "generated",
-      "last_written_hash": "1a50722b367b7a20a7ffe9762eb7d7e0937cb41b4f24d8848a13bae3964a3025"
+      "last_written_hash": "4a95bb77775886aa4191d5d90faac016b5a37a930375637a2c236c7e9085dd37"
     },
     "localization/english/gui/DI_holding_filters_l_english.yml": {
       "kind": "generated",
@@ -212,35 +212,39 @@
     },
     "localization/french/gui/DI_holding_filters_l_french.yml": {
       "kind": "generated",
-      "last_written_hash": "eba7e4365d395d086e77d24cd7b927bde4f85ac157d0673da3215c139c67e5d5"
+      "last_written_hash": "933cec59d302cad795bac7e81d59ff9ff7cfcb54d906e1d480332862fb0486c7"
     },
     "localization/german/gui/DI_holding_filters_l_german.yml": {
       "kind": "generated",
-      "last_written_hash": "a0cb33db7f48973061869020e1a2e515796fb417833a5874a443a67bee73826e"
+      "last_written_hash": "f4562be4e04294c2317f8eb51943875fd5d27f0710b75233fc2c43edb03f1d5b"
     },
     "localization/japanese/gui/DI_holding_filters_l_japanese.yml": {
       "kind": "generated",
-      "last_written_hash": "0235bc66ce2c04c72a4e93f5446a74276892e5dffa7cccb45bc5f6b39f587c33"
+      "last_written_hash": "cb957c0ab02439ad21960c2fc1414caee4a35318a49b46899917ddfb22742485"
     },
     "localization/korean/gui/DI_holding_filters_l_korean.yml": {
       "kind": "generated",
-      "last_written_hash": "08676f33c8b8141708eff3c425497bfd5795283ea8d198150d769c879a2b6ba2"
+      "last_written_hash": "5811ce49621228c155d061e2a574033fa64fbf3a69f695ccadd56a71bf1717e2"
     },
     "localization/polish/gui/DI_holding_filters_l_polish.yml": {
       "kind": "generated",
-      "last_written_hash": "5f5a6c9897e1f989d71fe8ceea45cf7c7bf8cd9f1d089f536e44c3d1e5698d03"
+      "last_written_hash": "81db6c4fbf5f0e718f3146b6d535db4682269ba088372a2021ad036f57cc0969"
     },
     "localization/russian/gui/DI_holding_filters_l_russian.yml": {
       "kind": "generated",
-      "last_written_hash": "3c3406d788e76045efed9e6f59917ac0d6ba5701e93b46a441b9fdde45c9c0d4"
+      "last_written_hash": "e3c06431cc8859cadfb8c3ce46688e8c9d982087c5f43b9f9862ed6265514609"
     },
     "localization/simp_chinese/gui/DI_holding_filters_l_simp_chinese.yml": {
       "kind": "generated",
-      "last_written_hash": "4aa05ba5d037400917eb23fbac561130fdbfcf9cdbd92efbd787e2eb7e136d90"
+      "last_written_hash": "f5386d24834094bfd4e10d0fea7548de714bf9cc4b73ef59fc5d500263b50e3c"
     },
     "localization/spanish/gui/DI_holding_filters_l_spanish.yml": {
       "kind": "generated",
-      "last_written_hash": "622568e49147eb7d7f9cec6cbfd1b3a0bb08feeabcd4cde11cafd8038dfac9c8"
+      "last_written_hash": "f633a19d70b4cbd30bf12ba0d8da0a70c72eed8dc9f619737c897a47a70beb46"
+    },
+    "common/scripted_effects/DI_title_manager_buildings_effects.txt": {
+      "kind": "generated",
+      "last_written_hash": "3bb3fb952b1d95d0b189ca63e8614a36000b5c0baaaf15fc5b99b29c00371dcf"
     }
   }
 }
